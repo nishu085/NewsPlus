@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "India's Predicted XI vs New Zealand, Cricket World Cup 2023: Who Will Fill Hardik Pandya-Sized Void?.. - NDTV Sports",
+            "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+            "url": "https://www.bbc.com/news/world-us-canada-39324587",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+            "publishedAt": "2023-10-22T02:11:17Z",
+            "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India.com"
+            },
+            "author": "Zee Media Bureau",
+            "title": "Highlights | ENG Vs SA ICC ODI World Cup 2023 Cricket Scorecard: South Africa Win By 229 Runs - Zee News",
+            "description": "Highlights | ENG Vs SA ICC ODI World Cup 2023 Cricket Scorecard: South Africa Win By 229 Runs",
+            "url": "https://zeenews.india.com/cricket/highlights/live-cricket-score-eng-vs-sa-icc-odi-world-cup-2023-match-no-20-today-england-vs-south-africa-wankhede-stadium-mumbai-jos-buttler-aiden-markram-400-runs-2nd-innings-target-for-eng-2678012",
+            "urlToImage": "https://english.cdn.zeenews.com/sites/default/files/2023/10/21/1302191-untitled-design-2023-10-21t071414.153.png",
+            "publishedAt": "2023-10-21T18:09:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TOI Sports Desk",
+            "title": "Netherlands vs Sri Lanka Highlights: Sadeera Samarawickrama leads Sri Lanka to first victory at World Cup - IndiaTimes",
+            "description": "Cricket News: Sadeera Samarawickrama's undefeated 91 propelled Sri Lanka to a five-wicket victory over the Netherlands, bringing the 1996 champions their first win",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-world-cup/news/netherlands-vs-sri-lanka-highlights-sadeera-samarawickrama-leads-sri-lanka-to-first-victory-at-world-cup/articleshow/104611704.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-104611738,width-1070,height-580,imgsize-64658,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-10-21T13:29:34Z",
+            "content": "SL vs NED, ICC World Cup: Bowlers, Samarawickrama help Sri Lanka win its first match against Netherlands"
+        }
+    ]
+}
